@@ -15,6 +15,6 @@ Check out the **live version**: [Chat App Demo](your-demo-link-here)
 
 ## 🛠️ Installation  
 ### Clone the repository  
-git clone https://github.com/AJAY2210121/chat-app.git
+git clone https://github.com/AJAY2210121/React-Chat-Application .git
 
 
